@@ -12,7 +12,6 @@ var orm = {
     });
   },
   insertOne: function(table, value, cb) {
-    // var queryString = "INSERT INTO " + table + " (" + column + ") VALUES ?";
     var queryString = "INSERT INTO " + table + " SET ?";
     connection.query(queryString, value, function(err, result) {
       if (err) {
