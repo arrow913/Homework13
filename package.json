@@ -8,14 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fernandamarr/burger.git"
+    "url": "git+https://github.com/arrow913/Homework13"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fernandamarr/burger/issues"
-  },
-  "homepage": "https://github.com/fernandamarr/burger#readme",
+  
+  "homepage": "https://github.com/arrow913/Homework13",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.2.0",
